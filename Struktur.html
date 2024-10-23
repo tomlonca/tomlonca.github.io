@@ -7,7 +7,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
+            background-color: #adbfdc;
             margin: 0;
             padding: 20px;
         }
@@ -19,11 +19,14 @@
 <body>
     <h1>Willkommen, lieber User</h1>
     <p>Beispielstext...</p>
-    <p>Zum Fortfahre, lesen Sie bitte unsere Terms of Service (Tos)</p>
-    <p> ((ToS als link hinzufügen)) </p>
-    <div class="popup" onclick="myFunction()">Click me!
-        <span class="popuptext" id="myPopup">Popup text...</span>
-      </div>
-    <input type="checkbox">
+    <p>Zum fortfahren, lesen Sie bitte unsere Terms of Service (Tos)</p>
+    <p class="popup-text" onclick="mostrarPopup()">Click here to see out Tos.</p>
+
+    <script>
+        function mostrarPopup() {
+            alert("Insert ToS here...");
+        }
+    </script>
+    <input type="checkbox">I accept the Terms of Service
 </body>
 </html>
