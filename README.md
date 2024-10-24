@@ -2,4 +2,5 @@
 
 ~ Still don't know what this website will be for 
 
-<img src="https://giphy.com/gifs/season-15-the-simpsons-15x5-l2JdTkHW1KZPdvdS0" width="480" height="362">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3JzZmFpOWxhZDZnOTZtbWRoYXRveXZuZGQzZGIzZTByenQ2NzBwaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l2JdTkHW1KZPdvdS0/giphy.webp" width="480" height="362">
+
