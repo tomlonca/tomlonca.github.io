@@ -4,13 +4,13 @@
 h3, h2 {
     margin: 0px;
 }
-header {
-    background-color: white;
+
+    header {
+    background-color: rgba(71, 71, 71, 0.905);
     text-align: left;
     font-size: 25px;
     color: rgb(6, 120, 185);
-    margin: 5px;
-    margin: 0%;
+    border: 0px;
 }
 
 nav {
