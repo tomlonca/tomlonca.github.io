@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+  }
+h3, h2 {
+    margin: 0px;
+}
+header {
+    background-color: white;
+    text-align: left;
+    font-size: 25px;
+    color: rgb(6, 120, 185);
+    margin: 5px;
+    margin: 0%;
+}
+
+nav {
+    float: left;
+    width: 30%;
+    background-color: rgb(202, 202, 202);
+    padding: 20px;
+}
+
+article {
+    float: left;
+    width: 70%;
+    background-color: white;
+    padding: 20px;
+    padding-top: 0px;
+}
